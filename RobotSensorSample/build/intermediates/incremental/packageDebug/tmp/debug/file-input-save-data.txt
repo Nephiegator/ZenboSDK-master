@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Feb 26 17:41:20 ICT 2019
+1.base=D\:\\_4SeniorWorks\\ZenboSDK_and_SampleCode\\RobotSensorSample\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\out
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=D\:\\_4SeniorWorks\\ZenboSDK_and_SampleCode\\RobotSensorSample\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\_4SeniorWorks\\ZenboSDK_and_SampleCode\\RobotSensorSample\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+2.baseType=DIRECTORY
+1.path=classes_0.dex

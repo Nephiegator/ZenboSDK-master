@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="lightblue">#536BDC</color>
+    <color name="mediume_persian">#006aa7</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="bluesky">#9bd6da</color>
+
+    <color name="one">#ebc6ed</color>
+    <color name="two">#9abfe4</color>
+    <color name="three">#faf4be</color>
+
+    <color name="philippine_yellow">#fecc00</color>
+    <color name="mustas">#FFC857</color>
+    <color name="selective_yellow">#fbbc05</color>
+    <color name="hotcoral">#DB5461</color>
+    <color name="cinnabar">#ea4335</color>
+
+    <color name="colorSucess">#329676</color>
+    <color name="colorDate">#6666FF</color>
+    <color name="colorFailed">#9C3455</color>
+</resources>

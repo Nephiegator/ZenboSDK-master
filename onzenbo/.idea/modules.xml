@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../RobotActivityLibrary/RobotActivityLibrary.iml" filepath="$PROJECT_DIR$/../RobotActivityLibrary/RobotActivityLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RobotDevSample/RobotDevSample.iml" filepath="$PROJECT_DIR$/../RobotDevSample/RobotDevSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RobotSensorSample/RobotSensorSample.iml" filepath="$PROJECT_DIR$/../RobotSensorSample/RobotSensorSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ZenboDialogSample/ZenboDialogSample.iml" filepath="$PROJECT_DIR$/../ZenboDialogSample/ZenboDialogSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ZenboGoToLocation/ZenboGoToLocation.iml" filepath="$PROJECT_DIR$/../ZenboGoToLocation/ZenboGoToLocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ZenboHelloWorld/ZenboHelloWorld.iml" filepath="$PROJECT_DIR$/../ZenboHelloWorld/ZenboHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ZenboSDK_and_SampleCode.iml" filepath="$PROJECT_DIR$/../ZenboSDK_and_SampleCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hello2/hello2.iml" filepath="$PROJECT_DIR$/../hello2/hello2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onzenbo.iml" filepath="$PROJECT_DIR$/onzenbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zenboside/zenboside.iml" filepath="$PROJECT_DIR$/../zenboside/zenboside.iml" />
+    </modules>
+  </component>
+</project>
